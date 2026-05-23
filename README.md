@@ -1,4 +1,4 @@
-<h1 align="center">Karfasah</h1>
+<h1 align="center">Haii, i'm Okta Rafiansyah</h1>
 
 <p align="center">
   Frontend Web Developer &nbsp;·&nbsp; HTML · CSS · JavaScript
