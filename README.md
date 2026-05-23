@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:your@email.com">Email</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="www.linkedin.com/in/okta-rafiansyah-495a01358">LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://yourportfolio.com">Portfolio</a>
 </p>
 
