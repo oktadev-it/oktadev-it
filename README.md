@@ -56,7 +56,7 @@ I believe that mastering the fundamentals is the most durable investment a devel
 ## GitHub Stats
 
 <p align="center">
-  <img height="160" src="/Photo/Foto/>
+  <img height="160" src=".../Photo/Foto.webp/>
   &nbsp;
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&bg_color=0D1117&border_color=30363d&title_color=ffffff&text_color=8b949e&hide_border=false" />
 </p>
